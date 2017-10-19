@@ -5,6 +5,6 @@ $(document).ready(function() {
         
         setTimeout(function() {
             $('#movie-plot').html("<p>" + "GENERATED" + "</p>")
-        }, 1500);
+        }, 1200);
     });
 });
