@@ -1,7 +1,10 @@
 $(document).ready(function() {
     
-    
     $('#generate-button').click(function() {
-        $('#movie-plot').html("<h3>" + "GENERATED" + "</h3>")
+        $('#loading').fadeTo('fast', 1);
+        
+        setTimeout(function() {
+            $('#movie-plot').html("<p>" + "GENERATED" + "</p>")
+        }, 1500);
     });
 });

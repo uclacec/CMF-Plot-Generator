@@ -50,5 +50,9 @@ body h3 {
     padding: 30px;
     background-color: #FE5F55;
     width: 100%;
-    height: 100px;
+}
+
+#loading {
+    width: 90px;
+    opacity: 0;
 }
