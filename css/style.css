@@ -1,0 +1,54 @@
+html * {
+    padding: 0;
+    margin: 0;
+    font-family: Raleway;
+}
+
+html body {
+    background-color: #F7F3E3;
+    padding-top: 50px;
+    text-align: center;
+    color: #272727;
+}
+
+body h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+body h2 {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+body h3 {
+    
+}
+
+#generate-button {
+    cursor: pointer;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 2rem;
+    background: none;
+    transition: all 0.2s ease;
+    border: 5px solid #F0B67F;
+}
+
+#generate-button:hover {
+    background-color: #FE5F55;
+    border: 5px solid #FE5F55;
+    color: #F7F3E3;
+}
+
+#movie-plot {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+    background-color: #FE5F55;
+    width: 100%;
+    height: 100px;
+}
