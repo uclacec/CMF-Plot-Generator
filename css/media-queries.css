@@ -1,0 +1,26 @@
+@media only screen and (max-width:600px) {
+    body h1 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+    
+    body h2 {
+        font-size: 1.3rem;
+    }
+    
+    #generate-button {
+        font-size: 1.3rem;
+        padding: 10px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    
+    #movie-plot {
+        padding: 5px;
+    }
+    
+    #movie-plot h3 {
+        font-size: 1.3rem;
+        line-height: 2rem;
+    }
+}
