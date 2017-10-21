@@ -114,9 +114,10 @@ $(document).ready(function() {
         
         $('#loading').fadeTo('fast', 1);
         
-        //Remember to change string output
         setTimeout(function() {
-            $('#movie-plot').html("<h3>" + "In a world where" + premise + "," + character + verb + closer +"</h3>")
-        }, 500);
+            $('#movie-plot').html("<h3 style='font-weight:bold'>" + "Genre: " + genre +"</h3>" + "<br>" +
+                                  "<h3>" + "In a world where" + premise + "," + character + verb + closer +"</h3>")
+        }, 700);
+        
     });
 });
