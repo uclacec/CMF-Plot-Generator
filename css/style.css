@@ -13,7 +13,7 @@ html body {
 #logo {
     margin-top: 10px;
     margin-bottom: 30px;
-    width: 350px;
+    width: 250px;
 }
 
 body h1 {
@@ -33,10 +33,6 @@ body h3 {
     font-size: 1.7rem;
     line-height: 2.5rem;
     color: #272727;
-}
-
-body p {
-    font-size: 1.3rem;
 }
 
 #generate-button {
