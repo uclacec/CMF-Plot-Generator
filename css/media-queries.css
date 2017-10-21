@@ -1,4 +1,8 @@
 @media only screen and (max-width:600px) {
+    #logo {
+        width: 40%;
+    }
+    
     body h1 {
         font-size: 2rem;
         margin-bottom: 20px;
@@ -6,6 +10,10 @@
     
     body h2 {
         font-size: 1.3rem;
+    }
+    
+    body p {
+        font-size: 1rem;
     }
     
     #generate-button {
