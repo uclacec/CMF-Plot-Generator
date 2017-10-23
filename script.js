@@ -20,7 +20,16 @@ $(document).ready(function() {
         ' it\'s the 1950s',
         ' humans are aliens pets',
         ' hair is the new currency',
-        ' house appliances scream when you plug them in'
+        ' house appliances scream when you plug them in',
+        ' Gene Block is everyone\'s father',
+        ' math just doesn\'t exist',
+        ' people just don\'t shower',
+        ' a tripple chin is just the norm',
+        ' everything hurts',
+        ' people run everywhere',
+        ' everything is a simulation so like you\'re just never sure what is real or not',
+        ' shaking someone\'s hand is the equivalent of fondling their genitals',
+        ' Nickleback has won infinite Grammy awards'
     ];
     
     var characters = [
@@ -42,7 +51,13 @@ $(document).ready(function() {
         ' DJ Khaled',
         ' Joe Bruin',
         ' a 9 year old priest',
-        ' Kim Jon Un'        
+        ' Kim Jon Un',
+        ' Gene Block',
+        ' a self aware mirror',
+        ' Hellen Keller',
+        ' Obama',
+        ' the members of Nickleback',
+        ' Pepe the frog'
     ];
     
     var verbs = [
@@ -75,7 +90,10 @@ $(document).ready(function() {
         ' does their taxes',
         ' starts a revolution',
         ' must take a drug test',
-        ' tries to become an Olympic athlete'  
+        ' tries to become an Olympic athlete',
+        ' goes through an existential crisis',
+        ' tries to climb Janns steps',
+        ' starts a Christian death metal band'
     ];
     
     var closers = [
@@ -91,7 +109,10 @@ $(document).ready(function() {
         ' at a UCLA football game',
         ' in the UCLA tunnels',
         ' in Powell library',
-        ' without using the letter "E"'
+        ' without using the letter "E"',
+        ' with only one arm',
+        ' without touching the floor',
+        ' without ever standing up'
     ];
     
     var genres = [
